@@ -1,0 +1,16 @@
+{
+  "name": "ddg.example",
+  "author": "Dinhero Development Group",
+  "license": "MIT",
+  "description": "Example Module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "dependencies": {
+    "@ctrl/tinycolor": "^4.1.0"
+  }
+}
